@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Joey</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        My name is Joey Feazel
+        \n\nI am currently pursuing an AAS Software - Web Development degree and am taking my final couple classes
+        \n\nI am married to my beautiful wife and we have one two year old boy
+        \n\nIn my spare time I enjoy playing video games with my friends online
+        \n\nI work at a Sports Betting company and enjoy my job a lot
+        \n\nThis is the sixth line
+        \n\nThis is the seventh line
+        \n\nThis is the eight line
+        \n\nThis is the ninth line
+        \n\nThis is the tenth line
+    </string>
 </resources>
